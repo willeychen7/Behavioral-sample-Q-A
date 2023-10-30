@@ -1,0 +1,20 @@
+Four steps [Context, Action, Result, Reflection]
+I. Context and task
+  - data source
+  - purpose of analysis
+  - spotted inconsistency
+
+II. Action
+  - Data Validation: assure no data entry error or data extraction issues.
+  - Time series analysis: identify outliers in the dataset.
+  - Cross referencing: such as marketing campaign, inventory level that could explain inconsistency
+  - Stakeholder communication, gather insights
+
+III. Result
+  - Share the outcomes of actions and the resolution of the inconsistency. 
+  - Highlight insights/recommendations based on your findings.
+
+IV. Reflection
+  - This experience taught me the critical importance of data integrity and the need for thorough data validation processes. 
+  - Highlight the value of clear communication with other departments and teams to resolve data-related issues efficiently. 
+  - Learn: proactive in implementing data validation checks and fostering collaboration between departments to maintain the quality of our data
